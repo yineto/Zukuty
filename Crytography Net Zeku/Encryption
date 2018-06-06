@@ -4,3 +4,4 @@ We can use http://atom.smasher.org/pgp/ to see an example the result from ecnryp
 
 There are Two Main Types of encryption:
 Asymmetric encryption, also called public key encryption, and symmetric encryption, also called conventional encryption. 
+Most of the time, a hybrid cryptosystem is used employing both methods.
