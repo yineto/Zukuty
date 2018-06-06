@@ -1,1 +1,3 @@
-As is expected, encryption takes plain text and turns it into cipher text by using a key or a key pair. The result is a meaningless message, unless you have a key. We can use http://atom.smasher.org/pgp/ to see an example the result from ecnryption a plain text message.
+As is expected, encryption takes plain text and turns it into cipher text by using a key or a key pair. 
+The result is a meaningless message, unless you have a key.
+We can use http://atom.smasher.org/pgp/ to see an example the result from ecnryption a plain text message.
