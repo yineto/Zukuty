@@ -1,0 +1,6 @@
+what is cryptography? Cryptography is the use of mathematical algorithms to transform information into a form that is not readable by unauthorized individuals.
+
+Cryptography does, however, provide authorized individuals with the ability to transform that encrypted information back into readable form.
+Cryptography depends upon two basic operations:
+The first, encryption, converts information from its plain text form into an encrypted version that is unreadable.
+This is known as cipher text. The second operation, decryption, performs the reverse transformation, using an algorithm to transform that encrypted cipher text back into plain text format.
